@@ -296,8 +296,8 @@ footer p{
     }
     #close{
         position: absolute;
-        top: 30px;
-        left: 30px;
+        top: -220px;
+        left: 10px;
         display: flex;
     }
     #hero{
